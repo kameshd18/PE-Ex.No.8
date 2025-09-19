@@ -1,7 +1,7 @@
 # Experiment 8: Reproducing an Image Using Prompts for Image Generation
 
 ## Date:
-## Reg. No.: 212222240043
+## Reg. No: 212222240043
 
 
 ## Aim:
@@ -11,9 +11,7 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ---
 
 ## Procedure:
-
 ### 1. **Analyze the Given Image:**
-
 
 Examine the image carefully, noting key elements such as:
 - **Objects/Subjects:** e.g., people, animals, objects.
@@ -53,13 +51,7 @@ Refine the prompt further by adding specific instructions about elements like te
 ![KEERTHI_VASAN_A_2Discovering_a_strange_portal_that_transports_th_f98bb0a4-6c92-405b-b965-36377cf264ca](https://github.com/user-attachments/assets/bfa0724f-f29d-4392-91a1-4eb28c5b9389)
 
 
-
-
 Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
-
-
-
-
 Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
 
 ---
